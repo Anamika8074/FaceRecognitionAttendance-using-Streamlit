@@ -1,0 +1,65 @@
+/* Custom CSS for the Streamlit app */
+
+/* Header styling */
+.header {
+    text-align: center;
+    padding: 1px;
+    background-color: #92d7e4;
+    color: white;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.header h1 {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+}
+
+.header p {
+    font-size: 1.2em;
+}
+
+/* Home page styling */
+.home {
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.home h2 {
+    color: #80ddeb;
+}
+
+.home ul {
+    list-style-type: square;
+    padding-left: 20px;
+}
+
+/* Button styling */
+.stButton button {
+    background-color: #80ddeb;
+    color: white;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 1em;
+    border: none;
+    cursor: pointer;
+}
+
+.stButton button:hover {
+    background-color: #3db0ea;
+}
+
+/* Dataframe styling */
+.stDataFrame {
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Sidebar styling */
+.sidebar .sidebar-content {
+    background-color: #b48fec;
+    padding: 20px;
+    border-radius: 10px;
+}
