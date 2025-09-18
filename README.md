@@ -1,8 +1,13 @@
 📸 Automatic Attendance System Using Face Recognition
+
 👥 Team Members
+
 Anamika Singh (Team Leader)
+
 Afreen Ahmed
+
 Jupally Meena
+
 
 📖 Project Overview
 
@@ -27,23 +32,41 @@ Existing systems lack scalability, automation, and seamless identity verificatio
 ✨ Key Features
 
 ✔️ Student facial registration with automatic image capture (30–40 images per student)
+
 ✔️ Real-time face recognition via webcam
-✔️ Attendance saved in CSV/Excel (with Name, Roll No, Branch, Date, Time)
+
+✔️ Attendance saved in CSV/Excel (with Name, Roll No, Branch, Date, Time
+
 ✔️ Date-wise attendance reports with % calculation
+
 ✔️ Downloadable reports in Excel format
+
 ✔️ Streamlit-based UI with navigation (Home, Register, Mark Attendance, View Attendance)
+
 ✔️ Scalable for schools, colleges, corporate offices, and more
 
 🏗️ System Architecture
 
+![System Architecture](images/Picture1.jpg) 
+
 🖥️ Screenshots
+
 🔹 Home Page
+
+![Home Page](images/Picture1.jpg) 
 
 🔹 Registration Page
 
+![Registration Page](images/Picture1.jpg) 
+
 🔹 Mark Attendance
 
+![Mark Attendance](images/Picture1.jpg) 
+
 🔹 Attendance Report
+
+![Attendance Report](images/Picture1.jpg) 
+
 
 🛠️ Tech Stack
 
