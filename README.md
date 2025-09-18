@@ -47,25 +47,25 @@ Existing systems lack scalability, automation, and seamless identity verificatio
 
 🏗️ System Architecture
 
-![System Architecture](images/Picture1.jpg) 
+![System Architecture](Images/Picture1.jpg) 
 
 🖥️ Screenshots
 
 🔹 Home Page
 
-![Home Page](images/Picture1.jpg) 
+![Home Page](Images/Picture1.jpg) 
 
 🔹 Registration Page
 
-![Registration Page](images/Picture1.jpg) 
+![Registration Page](Images/Picture1.jpg) 
 
 🔹 Mark Attendance
 
-![Mark Attendance](images/Picture1.jpg) 
+![Mark Attendance](Images/Picture1.jpg) 
 
 🔹 Attendance Report
 
-![Attendance Report](images/Picture1.jpg) 
+![Attendance Report](Images/Picture1.jpg) 
 
 
 🛠️ Tech Stack
