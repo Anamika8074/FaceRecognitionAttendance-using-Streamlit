@@ -1,10 +1,7 @@
 📸 Automatic Attendance System Using Face Recognition
 👥 Team Members
-
 Anamika Singh (Team Leader)
-
 Afreen Ahmed
-
 Jupally Meena
 
 📖 Project Overview
