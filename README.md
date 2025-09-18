@@ -1,6 +1,6 @@
-📸 Automatic Attendance System Using Face Recognition
+# 📸 Automatic Attendance System Using Face Recognition
 
-👥 Team Members
+# 👥 Team Members
 
 Anamika Singh (Team Leader)
 
@@ -9,7 +9,7 @@ Afreen Ahmed
 Jupally Meena
 
 
-📖 Project Overview
+# 📖 Project Overview
 
 This project automates attendance marking using Face Recognition. It eliminates manual roll-calls, prevents proxy attendance, and provides real-time tracking with a user-friendly interface.
 
@@ -21,7 +21,7 @@ Machine Learning (K-Nearest Neighbors - KNN)
 
 Streamlit for the web interface
 
-🚩 Problem Statement
+# 🚩 Problem Statement
 
 Manual/RFID attendance is time-consuming & prone to proxy attendance.
 
@@ -29,7 +29,7 @@ No real-time tracking or analytics.
 
 Existing systems lack scalability, automation, and seamless identity verification.
 
-✨ Key Features
+# ✨ Key Features
 
 ✔️ Student facial registration with automatic image capture (30–40 images per student)
 
@@ -45,30 +45,30 @@ Existing systems lack scalability, automation, and seamless identity verificatio
 
 ✔️ Scalable for schools, colleges, corporate offices, and more
 
-🏗️ System Architecture
+# 🏗️ System Architecture
 
 ![System Architecture](Images/Picture1.jpg) 
 
-🖥️ Screenshots
+# 🖥️ Screenshots
 
-🔹 Home Page
+### 🔹 Home Page
 
 ![Home Page](Images/Picture2.jpg) 
 
-🔹 Registration Page
+### 🔹 Registration Page
 
 ![Registration Page](Images/Picture3.jpg) 
 
-🔹 Mark Attendance
+### 🔹 Mark Attendance
 
 ![Mark Attendance](Images/Picture4.jpg) 
 
-🔹 Attendance Report
+### 🔹 Attendance Report
 
 ![Attendance Report](Images/Picture5.jpg) 
 
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 Frontend/UI: Streamlit
 
@@ -97,7 +97,7 @@ pip install -r requirements.txt
 streamlit run app.py
 
 
-📊 Results
+# 📊 Results
 
 Achieved 80%+ accuracy with KNN-based recognition.
 
@@ -105,7 +105,8 @@ Attendance marked in 1–2 seconds per student.
 
 User-friendly interface with Excel-based reports.
 
-🚀 Future Enhancements
+
+# 🚀 Future Enhancements
 
 ✅ Replace KNN with Deep Learning (CNN, ArcFace, InsightFace)
 
@@ -117,6 +118,7 @@ User-friendly interface with Excel-based reports.
 
 ✅ Blockchain for secure data storage
 
-📝 Conclusion
+
+# 📝 Conclusion
 
 The Face Recognition Attendance System is a contactless, automated, and accurate solution to manage attendance. With scalability and future integration potential, it is suitable for educational institutions, corporate offices, and large organizations.
