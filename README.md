@@ -53,19 +53,19 @@ Existing systems lack scalability, automation, and seamless identity verificatio
 
 🔹 Home Page
 
-![Home Page](Images/Picture1.jpg) 
+![Home Page](Images/Picture2.jpg) 
 
 🔹 Registration Page
 
-![Registration Page](Images/Picture1.jpg) 
+![Registration Page](Images/Picture3.jpg) 
 
 🔹 Mark Attendance
 
-![Mark Attendance](Images/Picture1.jpg) 
+![Mark Attendance](Images/Picture4.jpg) 
 
 🔹 Attendance Report
 
-![Attendance Report](Images/Picture1.jpg) 
+![Attendance Report](Images/Picture5.jpg) 
 
 
 🛠️ Tech Stack
